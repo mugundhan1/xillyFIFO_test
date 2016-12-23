@@ -1,0 +1,2 @@
+vhdtdtfi -lib work /media/Mordor/xillycounter-master/xilly_data_fifo_wrap.v -lang verilog -prj xillycounter -o xilly_data_fifo_wrap.spl -module xilly_data_fifo_wrap -template /media/Mordor/linux/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family virtex5 -w xilly_data_fifo_wrap.spl /media/Mordor/xillycounter-master/xilly_data_fifo_wrap.sym 

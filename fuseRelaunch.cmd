@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/media/Mordor/xillycounter-master/xillyctr_isim_beh.exe" -prj "/media/Mordor/xillycounter-master/xillyctr_beh.prj" "work.xillyctr" "work.glbl" 
