@@ -1,8 +1,0 @@
-INTSTYLE=ise
-INFILE=E:\xillycounter\xillyctr.ncd
-OUTFILE=E:\xillycounter\xillyctr.bit
-FAMILY=Virtex5
-PART=xc5vlx110t-1ff1136
-WORKINGDIR=E:\xillycounter
-LICENSE=ISE
-USER_INFO=__0_0_0

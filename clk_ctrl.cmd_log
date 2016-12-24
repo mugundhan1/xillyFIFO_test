@@ -1,2 +1,0 @@
-xaw2spl {-intstyle ise} E:/xillycounter/ipcore_dir/clk_ctrl.xaw 
-spl2sym -intstyle ise -family virtex5 clk_ctrl.spl E:/xillycounter/clk_ctrl.sym 
